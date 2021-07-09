@@ -1,0 +1,2 @@
+class CAFConfigError(Exception):
+    pass
